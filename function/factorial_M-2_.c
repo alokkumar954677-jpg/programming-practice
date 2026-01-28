@@ -14,6 +14,6 @@ int factorial(int c){//deffine
         printf("i=%d\n",i);
         fact=fact*i;
     }
-    printf("factorial=%d\n",fact);
+    printf("factorial of %d is %d\n",n,fact);
     return fact;
 }
